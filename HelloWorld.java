@@ -16,6 +16,7 @@ public class HelloWorld {
             int i ;
               for (i=0;i<6;i++)
                   System.out.println("rollno:" + i + "scored" + evalauteClass(arr_marks[i]));
+              System.out.println("new")
 
     }
      public static
