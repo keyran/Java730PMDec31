@@ -27,7 +27,7 @@ public class HelloWorld {
         {
             return "FAIL" ;
         }
-        else if (k >= 35 && k <60 )
+        else if (k>= 35 && k<60 )
         {
             //fdfdf
             return "Second class" ;
